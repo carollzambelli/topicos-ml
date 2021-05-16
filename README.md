@@ -3,8 +3,7 @@
 ### *Quero começar um projeto de Machine Learning, mas eu não sei nada sobre. E agora?*
 
 
-![meme](imgs/meme.jpeg)
-
+<center><img src="imgs/meme.jpeg" width="600"/></center>
 
 Este repositório aborda alguns conceitos básicos para você que quer iniciar nas artes do Machine Learning. 
 
